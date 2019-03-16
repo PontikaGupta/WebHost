@@ -1,0 +1,54 @@
+.row{
+  height:100vh;
+  }
+
+
+  .body-margin{
+  margin: 80px 80px   ;
+
+  }
+
+  .main-heading{
+  text-align:center;
+  margin-bottom:50px;
+
+  }
+
+   .btn{
+      background-color:  red;
+      color: white;
+      padding: 4px  30px;
+      margin: 1px 1px 1px 1px ;
+      }
+
+.btn1{
+    background-color: #3b2d7a;
+    color: white;
+    padding: 6px 45px 6px 45px;
+    font-size: 14px;
+    margin: 5px 1px 5px 1px ;
+     }
+
+
+
+.btn2{
+    margin: 5px 1px 5px 1px ;
+}
+
+
+.btn3{
+    background-color: white;
+    color: black;
+    padding: 6px 36px 6px 36px;
+    font-size: 14px;
+    }
+
+.flt{
+    float: right;
+    }
+
+
+
+
+
+
